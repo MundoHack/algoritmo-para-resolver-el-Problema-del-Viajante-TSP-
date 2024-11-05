@@ -1,0 +1,1 @@
+{"nodes": ["Pereira", "Cali", "Medellin", "Bogota"], "edges": [["Pereira", "Cali", 3.0], ["Pereira", "Medellin", 4.0], ["Pereira", "Bogota", 7.0], ["Cali", "Medellin", 8.0], ["Cali", "Bogota", 9.0], ["Medellin", "Bogota", 8.0]]}
